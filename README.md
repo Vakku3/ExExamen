@@ -35,7 +35,7 @@ No encuentra la manera de enfocar su proyecto, muchas ideas dispersas
  Edad: 45 años|
  Trabajo: Ingeniero comercial|
  Gustos: Fantasía, cottage Core|
- Personalidad: Lógico, ordenado, clasico, frio
+ Personalidad: Lógico, ordenado, clásico, frío
 
  Necesidad
  Requiere de la ayuda de diseñadores o artistas para un proyecto enfocado a un público infante
@@ -44,7 +44,7 @@ No encuentra la manera de enfocar su proyecto, muchas ideas dispersas
  No puede conectar con un público joven, no los ve las necesidades que estos pueden llegar a tener al no entenderlos
 
 
-## *Rosio Gomez*
+## *Rocío Gomez*
 
 <img src='images/p3.jpg' width=200></img>
 
@@ -120,3 +120,4 @@ https://www.behance.net/gallery/170826753/details-warrior
 
 ### MOODBOARD
 <img src='images/moodboard.png' width=766></img>|
+
